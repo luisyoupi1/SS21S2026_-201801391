@@ -43,7 +43,7 @@ La tabla de hechos almacena el precio del ticket como métrica principal.
 
 
 ## Diagrama del Modelo Estrella 
-
+![Diagrama Modelo Estrella](diagramaEstrella.png)
 
 ## Cómo ejecutar
 
@@ -56,3 +56,11 @@ Verificar conexión en etl.py.
 Ejecutar en terminal:
 
 python etl.py
+
+##  consultas 
+![Diagrama Modelo Estrella](img/img12.jpg)
+![Diagrama Modelo Estrella](img/img13.jpg)
+![Diagrama Modelo Estrella](img/img16.jpg)
+![Diagrama Modelo Estrella](img/img17.jpg)
+![Diagrama Modelo Estrella](img/img22.jpg)
+![Diagrama Modelo Estrella](img/img23.jpg)
