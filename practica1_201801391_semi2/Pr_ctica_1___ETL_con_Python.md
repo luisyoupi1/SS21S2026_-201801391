@@ -58,9 +58,10 @@ Ejecutar en terminal:
 python etl.py
 
 ##  consultas 
-![Diagrama Modelo Estrella](img/img12.jpg)
-![Diagrama Modelo Estrella](img/img13.jpg)
-![Diagrama Modelo Estrella](img/img16.jpg)
-![Diagrama Modelo Estrella](img/img17.jpg)
-![Diagrama Modelo Estrella](img/img22.jpg)
-![Diagrama Modelo Estrella](img/img23.jpg)
+![Imagen 12](imag/img12.jpg)
+![Imagen 13](imag/img13.jpg)
+![Imagen 16](imag/img16.jpg)
+![Imagen 17](imag/img17.jpg)
+![Imagen 22](imag/img22.jpg)
+![Imagen 23](imag/img23.jpg)
+
