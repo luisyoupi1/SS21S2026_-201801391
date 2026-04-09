@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="34.63.26.98.SGFoodOLTP.sgfood_reader"
+  DTS:DTSID="{18842490-47F6-4DAD-9B7E-E491169D5571}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=34.63.26.98;User ID=sgfood_reader;Initial Catalog=SGFoodOLTP;Provider=MSOLEDBSQL.1;Persist Security Info=True;Application Name=SSIS-Integration Services Project1-{18842490-47F6-4DAD-9B7E-E491169D5571}34.63.26.98.SGFoodOLTP.sgfood_reader;Auto Translate=False;">
+      <DTS:Password
+        DTS:Name="Password"
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA4xu/rWth+0agr9uP127nyQAAAAACAAAAAAAQZgAAAAEAACAAAACaMjbljPsD320o2j4pshP4QiZm61+5C3ScK4VnNw5IggAAAAAOgAAAAAIAACAAAAB5Kwds7zU2Ez83b7MGSDKI2g18B+Oc0xeXdvRIRYi5a5AAAABzvbu/b/74byimFz4XO+1r/fnFt6Daj72Gk7piMj5aO9ap8llOe4Av2p53yi36LFuo5MyXITiSqQTGWV5SBnwbMkg6TLxe9mQ88Rh+QbsFQFHA9v/8N9GXyT4JNsEZCI4/aSJvRJGdEagwNrs0bJqNGi3styh0lhMw6y4d0Yk+RXntAej8+li4DcwtR7OvLWRAAAAAQFhoheROx1qePy9bNV9bceHn5F4zQEhIVxX6aZDUZQa1HfDJc8+eTbd7zGalNOXXQHB8ErA3Dpba+9JfjgVENw==</DTS:Password>
+    </DTS:ConnectionManager>
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
