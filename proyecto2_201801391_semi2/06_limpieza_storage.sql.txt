@@ -1,0 +1,8 @@
+6. Liberar espacio antes de ML
+
+
+
+06_limpieza_storage.sql
+DROP TABLE IF EXISTS `proyecto2-201801391-semi2.proyecto_2.taxi_opt`;
+DROP TABLE IF EXISTS `proyecto2-201801391-semi2.proyecto_2.taxi_opt_simple`;
+DROP TABLE IF EXISTS `proyecto2-201801391-semi2.proyecto_2.taxi_features_ml`;
